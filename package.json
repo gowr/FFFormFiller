@@ -1,0 +1,9 @@
+{
+  "name": "ffformfiller",
+  "title": "FFFormFiller",
+  "id": "jid1-YkeQxsGDM0SVZQ",
+  "description": "A firefox addon that fills forms with english looking text",
+  "author": "gowr",
+  "license": "The MIT License (MIT)",
+  "version": "0.1"
+}
